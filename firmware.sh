@@ -1201,7 +1201,7 @@ read -ep "Press Enter to continue"
 function menu_fwupdate() {
     printf "\ec"
     echo -e "${NORMAL}\n ChromeOS Firmware Utility Script ${script_date} ${NORMAL}"
-    echo -e "${NORMAL} (c) Mr Chromebox <mrchromebox@gmail.com> ${NORMAL}"
+    echo -e "${NORMAL} (c) Mr Chromebox <mrchromebox@gmail.com> Modifications done by: HUKI3 ${NORMAL}"
     echo -e "${MENU}*********************************************************${NORMAL}"
     echo -e "${MENU}**${NUMBER}   Device: ${NORMAL}${deviceDesc} (${boardName^^})"
     echo -e "${MENU}**${NUMBER} CPU Type: ${NORMAL}$deviceCpuType"
