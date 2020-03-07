@@ -1,0 +1,238 @@
+{
+	"butterfly": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-butterfly-mrchromebox_20191201.rom",
+		"sha1": "224a4d6ecef86628fae4bcc7b4e549a64fc509b4"
+	},
+	"link": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-link-mrchromebox_20191201.rom",
+		"sha1": "c0c6f0af3b326882cedd07d9ec645be1da8ed2f0"
+	},
+	"lumpy": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-lumpy-mrchromebox_20191201.rom",
+		"sha1": "4e59149f94c70c38f9cf7ac926a6772964aec925"
+	},
+	"parrot": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-parrot-mrchromebox_20191201.rom",
+		"sha1": "e60da008c3e1b682f79848a42d95e522beb2e172"
+	},
+	"stout": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-stout-mrchromebox_20191201.rom",
+		"sha1": "b70e3ad53c51264d7921957c13b43e8d931196d7"
+	},
+	"stumpy": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-stumpy-mrchromebox_20191201.rom",
+		"sha1": "b8afb8ad75b80a115b80c3cabfc838f7042639eb"
+	},
+	"falco": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-falco-mrchromebox_20191201.rom",
+		"sha1": "eb74119b66d77cf53af1b503918f7e415859e114"
+	},
+	"leon": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-leon-mrchromebox_20200110.rom",
+		"sha1": "ccd3270c1055044badbf89e71eddc79bc8043a27"
+	},
+	"mccloud": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-mccloud-mrchromebox_20191201.rom",
+		"sha1": "ab8b1bda3f5a9e8f78907d4a867c6c2f34cf3a35"
+	},
+	"monroe": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-monroe-mrchromebox_20191201.rom",
+		"sha1": "4032457180786bebb133f4acc0a9ad884502fc71"
+	},
+	"panther": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-panther-mrchromebox_20191201.rom",
+		"sha1": "88adf0a1386e81a76319585d3c4dd31d5dffa1ac"
+	},
+	"peppy-cypress": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-peppy-mrchromebox_20200110.rom",
+		"sha1": "a5a388c3ba957436e49ab33b6b4ee4f242076f36"
+	},
+	"peppy-elan": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-peppy_elan-mrchromebox_20200110.rom",
+		"sha1": "58fdc6e45170788cdee1613da99c5be47993b674"
+	},
+	"tricky": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-tricky-mrchromebox_20191201.rom",
+		"sha1": "7dd12f0f96cb9754572f880ef4f4962504f40e15"
+	},
+	"wolf": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-wolf-mrchromebox_20200110.rom",
+		"sha1": "4e4af0dd6efddf71778fa71e3b47a456470c0062"
+	},
+	"zako": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-zako-mrchromebox_20191201.rom",
+		"sha1": "8d5f10296a061c9d26ac473b8e58866ff58416f8"
+	},
+	"auron_paine": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-auron_paine-mrchromebox_20191201.rom",
+		"sha1": "1934b319f8c3ff95201b069db7ffc3ae4e895a97"
+	},
+	"auron_yuna": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-auron_yuna-mrchromebox_20191201.rom",
+		"sha1": "153e6714e460caa0faa3152409a46be6ae5d40c6"
+	},
+	"buddy": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-buddy-mrchromebox_20191218.rom",
+		"sha1": "b38f3d5caf6214c72d26598e8db2fae55ba2bbeb"
+	},
+	"gandof": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-gandof-mrchromebox_20191201.rom",
+		"sha1": "1353a06dd48cfc5b9e2253661470bb38716037ff"
+	},
+	"guado": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-guado-mrchromebox_20191201.rom",
+		"sha1": "d99e9f36d96183813e1ba72a1aca2ca4facf9797"
+	},
+	"lulu": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-lulu-mrchromebox_20191201.rom",
+		"sha1": "9a4e78019dc9b0c379ffe8c400c48c1ae8e25cb3"
+	},
+	"rikku": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-rikku-mrchromebox_20191201.rom",
+		"sha1": "1b4a8f0e9f024d9d083a95c23eccdf3d8e68a2df"
+	},
+	"samus": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-samus-mrchromebox_20191201.rom",
+		"sha1": "56446125f80a9f497928fc5b2ba6510470f889cb"
+	},
+	"tidus": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-tidus-mrchromebox_20191201.rom",
+		"sha1": "bd299cafc8dda49399215c35ef25c0d27fa452e0"
+	},
+	"banjo": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-banjo-mrchromebox_20200112.rom",
+		"sha1": "6d389b65200275d3acb88050633ebf0531cb9c92"
+	},
+	"candy": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-candy-mrchromebox_20191201.rom",
+		"sha1": "994b94faa0a2ff8282dd5bd4b916cfb756feabc4"
+	},
+	"clapper": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-clapper-mrchromebox_20191201.rom",
+		"sha1": "2e86d07cdab4eaaef31dd94cbe132548a8c4e9c7"
+	},
+	"enguarde": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-enguarde-mrchromebox_20191201.rom",
+		"sha1": "a5744ca566da5cb9f13fafc368866ad278667d92"
+	},
+	"glimmer": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-glimmer-mrchromebox_20191201.rom",
+		"sha1": "fee5f48d5012e574db2657b8fab4dfdb7e3af30a"
+	},
+	"gnawty": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-gnawty-mrchromebox_20191201.rom",
+		"sha1": "6023cbbf8d3ccc0717d030083aeb09b0c2d84fdd"
+	},
+	"heli": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-heli-mrchromebox_20191201.rom",
+		"sha1": "05c3d3d050848f7a75d4f27b672245caaf8cf8a1"
+	},
+	"kip": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-kip-mrchromebox_20191201.rom",
+		"sha1": "43beacdf68da637403a6c5e77cff5e9236aab6b6"
+	},
+	"ninja": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-ninja-mrchromebox_20191201.rom",
+		"sha1": "a6da6c3adf0acc0adc36cc7c15aaecfe481b06fa"
+	},
+	"orco": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-orco-mrchromebox_20191201.rom",
+		"sha1": "e40f1db53fd34ecf820dc4e278fa4d24e2503a48"
+	},
+	"quawks": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-quawks-mrchromebox_20191201.rom",
+		"sha1": "2277d04f5204cbb12f0eebc56b3666646f90fc5c"
+	},
+	"squawks": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-squawks-mrchromebox_20191201.rom",
+		"sha1": "45f95f115ec3f1681e4480de4ad3908a4a835964"
+	},
+	"sumo": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-sumo-mrchromebox_20191201.rom",
+		"sha1": "fe9b0653ee78932890d2e78995b0e95162ea8708"
+	},
+	"swanky": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-swanky-mrchromebox_20191201.rom",
+		"sha1": "a1731e0eb6db738c1726db8862ae0a0c6a2f2ba1"
+	},
+	"winky": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-winky-mrchromebox_20191201.rom",
+		"sha1": "4b535f2e1732e0c3181afe1d3ebe608e8bf5705a"
+	},
+	"banon": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-banon-mrchromebox_20191201.rom",
+		"sha1": "5ff6ba854a6338b4a32e2971c4e444fb4f9d5f8e"
+	},
+	"celes": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-celes-mrchromebox_20191201.rom",
+		"sha1": "accc66bae977d6194dc130abb895325ea04ad54e"
+	},
+	"cyan": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-cyan-mrchromebox_20191201.rom",
+		"sha1": "f51d5e19162ac3871b428be354e7ffde7b452e4f"
+	},
+	"edgar": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-edgar-mrchromebox_20191201.rom",
+		"sha1": "0f21f68781fc2e7a0f9559b8591671a538eadedd"
+	},
+	"kefka": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-kefka-mrchromebox_20191201.rom",
+		"sha1": "ebd3bbc08170c26aa2d6676efa14aac7fddd9d59"
+	},
+	"reks": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-reks-mrchromebox_20191201.rom",
+		"sha1": "2c71b43bdc6890e59f5704de035c00ccf4bd4473"
+	},
+	"relm": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-relm-mrchromebox_20191201.rom",
+		"sha1": "ff6aad8e9b217b1c0987d17cee1dbc06de035b74"
+	},
+	"setzer": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-setzer-mrchromebox_20191201.rom",
+		"sha1": "e40c229f3d896129e7245a4cddbc419a4e7c4023"
+	},
+	"terra": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-terra-mrchromebox_20191201.rom",
+		"sha1": "222259abdfe9a0ba57c46c502cf74cb6028ef2b3"
+	},
+	"ultima": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-ultima-mrchromebox_20191201.rom",
+		"sha1": "e2731467a4aa281fadf22ddc6ea2aa4941252b33"
+	},
+	"wizpig": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-wizpig-mrchromebox_20191201.rom",
+		"sha1": "374fe4f5fba2fa23bb8603987231fffaa17ca85d"
+	},
+	"asuka": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-asuka-mrchromebox_20191201.rom",
+		"sha1": "6565da11577552ba8172ff94258469d1e389458e"
+	},
+	"caroline": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-caroline-mrchromebox_20191201.rom",
+		"sha1": "16cfbc799fe8d0e47939704cb33fa38c37e7c195"
+	},
+	"cave": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-cave-mrchromebox_20191201.rom",
+		"sha1": "29bb4a1b673e2fda9bb9d56aa2cef2944d0f9469"
+	},
+	"chell": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-chell-mrchromebox_20191201.rom",
+		"sha1": "21d99a358cb713306ba46a7eea5f8c0dcac6939a"
+	},
+	"lars": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-lars-mrchromebox_20191201.rom",
+		"sha1": "b83ef7a4fa36bc8d0ca51a8c4d3ce7509efeb21b"
+	},
+	"sentry": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-sentry-mrchromebox_20191201.rom",
+		"sha1": "1706d5767fdf2b31502ccdd6ccf95f39453296a4"
+	},
+	"eve": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-eve-mrchromebox_20200110.rom",
+		"sha1": "7592d6cd75f86b274b9ba4b1582228db4ff17f48"
+	},
+	"fizz": {
+		"url": "https://www.mrchromebox.tech/files/firmware/full_rom/coreboot_tiano-fizz-mrchromebox_20191201.rom",
+		"sha1": "48f9f89cf1aa6946e3866a9a76ed7b915436f544"
+	}
+}
